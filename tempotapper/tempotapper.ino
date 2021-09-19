@@ -27,3 +27,4 @@ void loop() {
   Serial.print("bpm: ");
   Serial.println(tapTempo.getBPM());
 }
+// comentario vacio
